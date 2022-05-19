@@ -2,7 +2,7 @@
 
 # Matrix Flatten
 
- <img src="screenshots/task3.jpg">
+ <img src="Screenshots/task3.jpg">
  
 </div>
 
